@@ -8,7 +8,7 @@ I'm a **Computer Science student** with a passion for **hacking** and **cybersec
 - 🔧 Exploring tools like **Auto Download**, **Detect Malware**, and more for detecting and addressing security threats  
 
 ## 🌐 Connect with Me
-- 🔗 [Facebook]([https://facebook.com/your-profile-link](https://www.facebook.com/b4orvn/))  
+- 🔗 [Facebook](https://www.facebook.com/b4orvn/)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/bao-ngo-61b05425b/)
 - 🔗 [X](https://x.com/b4orvn259)  
 - 🌟 **GitHub Projects**: Check out my repositories and projects!  
