@@ -1,16 +1,19 @@
-## Hi there 👋
+# 💻 Hi there, I'm Bảo! 👋
 
-<!--
-**ngobao2002/ngobao2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Computer Science student** with a passion for **hacking** and **cybersecurity**. I love exploring vulnerabilities, learning about automated tools, and constantly challenging myself to improve my skills in ethical hacking.
 
-Here are some ideas to get you started:
+## 🌟 About Me
+- 🧑‍🎓 **Student** at VNUK Institute of Research and Executive Education  
+- 🕵️‍♂️ Aspiring **Hacker** with an interest in penetration testing and security automation  
+- 🔧 Exploring tools like **Auto Download**, **Detect Malware**, and more for detecting and addressing security threats  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Connect with Me
+- 🔗 [Facebook]([https://facebook.com/your-profile-link](https://www.facebook.com/b4orvn/))  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/bao-ngo-61b05425b/)
+- 🔗 [X](https://x.com/b4orvn259)  
+- 🌟 **GitHub Projects**: Check out my repositories and projects!  
+
+Feel free to connect and collaborate with me as I embark on this journey of learning and growing in the field of cybersecurity!
+
+---
+⚡ *“The quieter you become, the more you can hear.”*  
