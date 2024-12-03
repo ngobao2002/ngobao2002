@@ -17,3 +17,4 @@ Feel free to connect and collaborate with me as I embark on this journey of lear
 
 ---
 ⚡ *“The quieter you become, the more you can hear.”*  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngobao2002)](https://github.com/anuraghazra/github-readme-stats)
