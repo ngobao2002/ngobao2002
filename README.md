@@ -1,11 +1,19 @@
-# 💻 Hi there, I'm Bảo! 👋
+# 👋 Hi there, I'm Bảo!
 
-I'm a **Computer Science student** with a passion for **hacking** and **cybersecurity**. I love exploring vulnerabilities, learning about automated tools, and constantly challenging myself to improve my skills in ethical hacking.
+I'm a **DevSecOps engineer** with a background in Computer Science and a long-standing obsession with cybersecurity.  
+These days, I’m diving into **pwn** (and mostly getting pwned), wrangling **DevSecOps pipelines**, and occasionally pretending to study **AI** just to stay relevant.
+
+---
 
 ## 🌟 About Me
-- 🧑‍🎓 **Student** at VNUK Institute of Research and Executive Education  
-- 🕵️‍♂️ Aspiring **Hacker** with an interest in penetration testing and security automation  
-- 🔧 Exploring tools like **Auto Download**, **Detect Malware**, and more for detecting and addressing security threats  
+
+- 🎓 Graduate of **VNUK Institute of Research and Executive Education**  
+- 🔐 **DevSecOps Engineer** – building secure systems while breaking insecure ones  
+- 🧠 Learning **binary exploitation** and finding out the hard way what a `segfault` really means  
+- 🤖 Exploring **AI and LLMs**, mostly wondering how they don't segfault like my code  
+- 🛠️ Automating security scans, breaking pipelines (sometimes intentionally), and writing code that works… eventually  
+
+--- 
 
 ## 🌐 Connect with Me
 - 🔗 [Facebook](https://www.facebook.com/b4orvn/)  
